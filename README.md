@@ -13,10 +13,9 @@
 * [*Build Environment*](#env)
 * [*Remote Desktop*](#rm)
 * [*Matlab*](#rm)
-* [*Office Key*](#key)
-* [*Office AC*](#ac)
 * [*Journal Club*](#journalclub)
-
+<!-- * [*Office Key*](#key) -->
+<!-- * [*Office AC*](#ac) -->
 
 <br>
 <br>
