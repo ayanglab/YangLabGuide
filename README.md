@@ -1,8 +1,5 @@
 # <span id="top" style="color:#2E86C1 ">*A manual for new starters in our group [`ayanglab`](https://www.yanglab.fyi/)*</span>
 
-* `NOTE`
-  * this repo will be transferred to https://github.com/ayanglab in a near future
-
 <br>
 
 ## <span style="color:#2E86C1 ">*Table of Contents*</span>
@@ -138,7 +135,7 @@ Zerotier:
 ## <span id="trello" style="color:#2E86C1 ">*Share the trello board*</span>
 
 1. Register a Trello account using imperial email in [Trello](https://trello.com/)
-2. Find project management in the template and create a workspace and board from this templete
+2. Find `project management` in the template and create a workspace and board from this templete
 3. Change the workspace and board name to `PhD students (Your Name)`
 4. Share this board to Dr Guang Yang's email
 
