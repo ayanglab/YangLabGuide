@@ -63,7 +63,7 @@ If you have any questions, <span style="color:red; font-size:1em">*please post i
 |yanglab14|-| - |
 |yanglab15|-| - |
 |yanglab16|-| - |
-|DistriM|Ming Li|ming.li@imperial.ac.uk|
+<!-- |DistriM|Ming Li|ming.li@imperial.ac.uk| -->
 
 * check workstation IP in `Teams` [*Path: Files/Workstation Information*](https://imperiallondon.sharepoint.com/sites/AYangLab-WH/_layouts/15/Doc.aspx?sourcedoc={5bb99d8c-2ed8-4f5d-b941-abc50894f628}&action=edit&wd=target%28workstations%20IP.one%7C7488e916-1853-4873-99da-4bac48e0875b%2FWorkstation%7C7c881532-97a6-4c1d-afc4-6821e518ab7f%2F%29&wdorigin=NavigationUrl)
 * ask Dr Guang Yang for `Teams` permission
