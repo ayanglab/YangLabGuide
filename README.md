@@ -46,7 +46,7 @@ If you have any questions, <span style="color:red; font-size:1em">*please post i
 
 |Name|Administrator|Email|
 | :--- | :---: | ---: |
-|yanglab0|Shiyi Wang <br> Zeyu Tang| s.wang22@imperial.ac.uk <br> zeyu.tang19@imperial.ac.uk |
+|yanglab0|Shiyi Wang| s.wang22@imperial.ac.uk |
 |yanglab |Jiahao Huang| j.huang21@imperial.ac.uk |
 |yanglab1|Ming Li| ming.li@imperial.ac.uk |
 |yanglab2|Yang Nan| y.nan20@imperial.ac.uk |
@@ -63,6 +63,7 @@ If you have any questions, <span style="color:red; font-size:1em">*please post i
 |yanglab13|-| - |
 |yanglab14|-| - |
 |yanglab15|-| - |
+|yanglab16|-| - |
 |DistriM|Ming Li|ming.li@imperial.ac.uk|
 
 * check workstation IP in `Teams` [*Path: Files/Workstation Information*](https://teams.microsoft.com/_?culture=en-us&country=ww#/one/viewer/teamsSdk/https:~2F~2Fimperiallondon.sharepoint.com~2Fsites~2FAYangLab-WH~2FShared%20Documents~2FGeneral~2FWorkstation%20Information~2FWorkstations%20IP?threadId=19:f49b4c67b1894aff9ea2738829473de3@thread.tacv2&subEntityId=%257B%2522viewParams%2522%253A%2522id%253D%25252Fsites%25252FAYangLab%25252DWH%25252FShared%252520Documents%25252FGeneral%25252FWorkstation%252520Information%2526viewid%253D4a7c2a42%25252Da573%25252D433d%25252Da1ef%25252D21960f1d0619%2522%257D&baseUrl=https:~2F~2Fimperiallondon.sharepoint.com~2Fsites~2FAYangLab-WH&fileId=5bb99d8c-2ed8-4f5d-b941-abc50894f628&ctx=openFilePreview&viewerAction=view)
@@ -156,12 +157,12 @@ Zerotier:
 * please refer to [remote_desktop_and_matlab](docs/remote_desktop_and_matlab.md)
 
 
----
+<!-- ---
 <br>
-<br>
+<br> -->
 
 
-## <span id="key" style="color:#2E86C1 ">*Office key holders*</span>
+<!-- ## <span id="key" style="color:#2E86C1 ">*Office key holders*</span>
 
 |Name|key number|
 | :--- | :---: |
@@ -173,16 +174,16 @@ Zerotier:
 |Shiyi Wang|1|
 |Fanwen Wang|1|
 |Sheng Zhang|1|
-||8 keys in total|
+||8 keys in total| -->
 
 
----
+<!-- ---
 <br>
-<br>
+<br> -->
 
 
-## <span id="ac" style="color:#2E86C1 ">*AC setting in our office*</span>
-* please refer to [TOSHIBA_AC_setting_manual](docs/TOSHIBA_AC_setting_manual.pdf)
+<!-- ## <span id="ac" style="color:#2E86C1 ">*AC setting in our office*</span>
+* please refer to [TOSHIBA_AC_setting_manual](docs/TOSHIBA_AC_setting_manual.pdf) -->
 
 
 ---
@@ -195,7 +196,7 @@ Zerotier:
 |time|speaker|topic|readings <br> slides|
 | :--- | :---: | :---: | :---: |
 |2023-01-27|Ming Li|Learning in the Frequency Domain|[link](journal_club/2023-01-27-Ming_Li-frequency/)|
-|?|?|?|?|
+|-|-|-|-|
 
 
 <br>
