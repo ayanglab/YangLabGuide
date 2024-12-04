@@ -5,6 +5,7 @@
 ## <span style="color:#2E86C1 ">*Table of Contents*</span>
 * [*FAQ*](#faq) 
 * [*Computational Resources in `ayanglab`*](#cria)
+* [*HPC in Imperial College London*](#hpc)
 * [*JADE2*](#jade2)
 * [*NAS*](#nas)
 * [*Datasets overview*](#data)
@@ -69,6 +70,12 @@ If you have any questions, <span style="color:red; font-size:1em">*please post i
 * ask Dr Guang Yang for `Teams` permission
 ---
 <br>
+
+### <span id="jade2" style="color:#2E86C1 ">*HPC in Imperial College London*</span>
+* For more instructions on how to use JADE2, please check [HPC tutorial](docs/HPC_Tutorial.md).
+---
+<br>
+
 
 ### <span id="jade2" style="color:#2E86C1 ">*JADE2*</span>
 * For more instructions on how to use JADE2, please check [JADE tutorial](docs/JADE2_Tutorial.md).
