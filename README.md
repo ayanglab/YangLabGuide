@@ -71,7 +71,7 @@ If you have any questions, <span style="color:red; font-size:1em">*please post i
 ---
 <br>
 
-### <span id="jade2" style="color:#2E86C1 ">*HPC in Imperial College London*</span>
+### <span id="hpc" style="color:#2E86C1 ">*HPC in Imperial College London*</span>
 * For more instructions on how to use JADE2, please check [HPC tutorial](docs/HPC_Tutorial.md).
 ---
 <br>
